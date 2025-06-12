@@ -33,5 +33,3 @@ Etapa dedicada a estructurar, modularizar y escalar el proyecto de forma profesi
 
 - Código compacto y legible.
 - Fácil de expandir a más canales si se requiere.
-- Ideal para subir a GitHub como proyecto educativo/documentado.
-
