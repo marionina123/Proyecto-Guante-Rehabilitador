@@ -13,7 +13,7 @@ Desarrollar un sistema modular en Arduino Uno capaz de leer señales analógicas
 ## Tecnologías Usadas
 
 - **Plataforma**: Arduino Uno
-- **Lenguaje**: C++ (usando `.ino`, `.cpp`, `.h`)
+- **Lenguaje**: C/C++ (usando `.ino`, `.cpp`, `.h`)
 - **Librerías**: 
   - [`Servo.h`](https://www.arduino.cc/en/reference/servo)
 - **Herramientas**: Arduino IDE, Serial Monitor / Plotter
