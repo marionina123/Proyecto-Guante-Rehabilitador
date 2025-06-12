@@ -1,4 +1,4 @@
-# Control de Servomotores con Potenciómetros – Arduino Uno
+# Guante Rehabilitador – Arduino Uno
 
 Este proyecto permite controlar cinco servomotores de manera independiente usando cinco potenciómetros. Además de su implementación práctica, sirve como ejercicio aplicado para la materia **Señales y Sistemas**, incorporando técnicas básicas de procesamiento de señales como suavizado, calibración y reducción de ruido.
 
